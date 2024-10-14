@@ -2,7 +2,7 @@ from  utils.gps_manager import start_gps
 from  utils.wifi_monitor import scan_wifi
 from utils.wifi_exploit import hack_wifi
 from utils.vulnerability_finder import vuln_find
-
+from utils.export_csv import export_csv
 
 def main():
 
@@ -17,6 +17,11 @@ def main():
 
     #     Vulnerabilities scan
     wifi_list_mapped = vuln_find(wifi_list_exploited)
+
+    #     Data export
+    wifi_list_exported = export_csv(coordinate, wifi_list_mapped)
+
+    print(wifi_list_exported)
 
 
 if __name__ == "__main__":
