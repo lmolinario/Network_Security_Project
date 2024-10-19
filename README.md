@@ -41,7 +41,7 @@ or
 - Run the file `rsb_UK.py` to start the program (optimezed version file for Raspberry Pi)
 
 If you are italian:
-- Avvia il file `rsb_IT.py` per avviare il programma (versione ottimizzata per Raspberry Pi)
+- Esegui il file `rsb_IT.py` per avviare il programma (versione ottimizzata per Raspberry Pi)
 
 ## Project goal
 The objectives we have set ourselves to achieve with this project are:
