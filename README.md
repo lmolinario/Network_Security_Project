@@ -4,7 +4,7 @@ This project is developed for the UNICA.IT University Network Security exam.
 
 > **Master's degree in Computer Engineering, Cybersecurity and Artificial Intelligence - University of Cagliari**
 
-> **Network Security**
+> **Network Security - Supervisor: Marco Martalò **
 
 > **Authors**: Lello Molinario: 70/90/00369 - Federico Moro: 70/90/00380
 
