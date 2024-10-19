@@ -23,7 +23,7 @@ This project is developed for the UNICA.IT University Network Security exam.
 
 - Download the ZIP code or clone the repository inside Raspberry PI 3 B+ with
   ```bash
-  git clone https://github.com/lmolinario/Net_Sec_Project.git
+  git clone https://github.com/lmolinario/Network_Security_Project.git
   ```
 - Install the requirements with
 
