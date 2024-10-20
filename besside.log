@@ -1,0 +1,5 @@
+﻿# SSID              | KEY                                    | BSSID             | MAC filter
+FritzBox            | Got WPA handshake                      | DC:39:6F:FD:5D:EB | 
+SOSSU               | Got WPA handshake                      | DC:39:6F:FD:5D:EB | 
+TP-LINK_3CE9        | 61:31:24:67:4c:61:31:24:67:4c:61:31:24 | E8:DE:27:68:3C:E9 | 
+TISCALI-4201        | Got WPA handshake                      | 08:26:97:A1:32:21 | 

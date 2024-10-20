@@ -1,0 +1,27 @@
+Reading packets, please wait...
+Opening ./wpa.cap
+[0KRead 6 packets.
+
+1 potential targets
+
+[2J[2;32HAircrack-ng 1.7 [3;0H[0J[4;7H[00:00:00] 65/3569 keys tested (4004.86 k/s) [6;7HTime left: 0 seconds                                       1.82%
+[8;24HCurrent passphrase: 18KMdispiaggia             
+[11;7HMaster Key     : 1D 5A A7 07 8B 40 60 99 59 8D A2 ED B7 E7 AD 5B [48D[1B94 89 5A E5 CA 6E F3 07 D1 B3 C8 51 7E E4 75 5C [14;7HTransient Key  : A8 6B 91 15 00 00 00 00 00 00 00 00 00 00 00 00 
+[23C00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+[23C00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+[23C00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [19;7HEAPOL HMAC     : 71 4F 12 6A AA F3 6E 54 4B D7 BD 5E 24 FA 14 2F 
+[8;25H[2KKEY FOUND! [ 18KMdispiaggia ]
+[11B[3;0H[0J[4;7H[00:00:00] 1545/3569 keys tested (9318.01 k/s) [6;7HTime left: 0 seconds                                      43.29%
+[8;24HCurrent passphrase: sinatra                    
+[11;7HMaster Key     : C2 7B AB 18 B6 36 2A 3F 9E 38 B0 97 7C A6 61 EC [48D[1BE4 A6 77 E3 E6 62 CC C4 31 94 FB BB 6A 67 C8 0B [14;7HTransient Key  : DA 48 99 C9 87 2D 43 70 AA 16 D7 4E 31 A7 D1 E8 
+[23C0B 00 1E DD E0 56 23 3A 87 1D 81 F8 9B 33 23 FD 
+[23C0D 6A F9 9E CE 5A 81 46 BD 85 63 4A 72 9E A8 6D 
+[23C01 C6 11 8F 37 48 9F 1C A2 44 1A 94 5A 24 CC CA [19;7HEAPOL HMAC     : D2 F3 2D 7F BD E6 93 13 B6 B4 8D D2 A6 5E F3 B1 
+[3;0H[0J[4;7H[00:00:00] 3003/3569 keys tested (9462.50 k/s) [6;7HTime left: 0 seconds                                      84.14%
+[8;24HCurrent passphrase: kissa2                     
+[11;7HMaster Key     : C6 EC 92 70 6D 0B F2 CE AA 91 32 6F 55 4F 66 EA [48D[1B7D 7C 15 A8 5E 93 FD 56 37 BB 32 4E B7 CF 77 88 [14;7HTransient Key  : 07 4B EA 30 A7 22 22 22 54 8C 40 61 97 93 6A 6F 
+[23C36 DF 0E F3 F2 AF B5 D2 16 AC 2B 3B 7B F0 61 BB 
+[23C20 75 D5 08 0F A8 D2 BD FE 35 E6 81 02 8C B5 A2 
+[23C0E E5 EB 75 F1 08 48 B2 E2 4A A3 9A 28 7F 3B CF [19;7HEAPOL HMAC     : D4 EB DF BD F4 B1 50 1A 04 CB 61 97 8B 15 BA FF 
+[8;25H[2KKEY FOUND! [ 18KMdispiaggia ]
+[11B[22;0H
