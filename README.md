@@ -65,21 +65,29 @@ Whenever a key is found, the process will be stopped and the result will be disp
 
 ## Hardware Design
 The hardware we used was the following:
+
 - Raspberry PI 3 B+
-  
-  ![Raspberry PI 3 B+](images/RaspberryPI3B+.jpg)
+  <p align="center">
+  <img width="460" height="340" src="images/RaspberryPI3B+.jpg">
+</p>
+
 
 - USB-GPS-module-Navigation-Positioning-G-mouse – U-Blox
+  <p align="center">
+  <img width="460" height="440" src="images/U-Blox.jpg">
+</p>
 
-  ![USB-GPS-module-Navigation-Positioning-G-mouse – U-Blox](images/U-Blox.jpg)
 
 - Network 1000 mW Long-Range USB Wi-Fi Adapter, AWUS036NEH
-
-  ![Network 1000 mW Long-Range USB Wi-Fi Adapter, AWUS036NEH](images/AWUS036NEH.jpg)
+  <p align="center">
+  <img width="220" height="440" src="images/AWUS036NEH.jpg">
+</p>
 
 - Assembled system
+  <p align="center">
+  <img width="520" height="440" src="images/wipy.png">
+</p>
 
-![WIPY](images/wipy.png)
 
 
 ## Conclusions
@@ -90,5 +98,7 @@ In order to analyze the data obtained and make them accessible to the most, I de
 This methodology is called “SWOT” analysis (Strengths, Weaknesses, Opportunities and Threats).
 
 The SWOT is made up of a 2×2 matrix in which the factors that have a potential, positive or negative impact on what is being analyzed or wanted to be achieved are appropriately identified and organised.
+  <p align="center">
+  <img width="460" height="440" src="images/SWOT.png">
+</p>
 
-![SWOT](images/SWOT.png)
