@@ -84,3 +84,11 @@ The hardware we used was the following:
 
 ## Conclusions
 
+In order to analyze the data obtained and make them accessible to the most, I decided to use a methodology used to make strategic choices starting from the map of factors (both internal and external, positive or negative) that can influence the choice itself.
+
+
+This methodology is called “SWOT” analysis (Strengths, Weaknesses, Opportunities and Threats).
+
+The SWOT is made up of a 2×2 matrix in which the factors that have a potential, positive or negative impact on what is being analyzed or wanted to be achieved are appropriately identified and organised.
+
+![SWOT](images/SWOT.png)
