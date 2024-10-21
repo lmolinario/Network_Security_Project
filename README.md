@@ -66,24 +66,24 @@ Whenever a key is found, the process will be stopped and the result will be disp
 ## Hardware Design
 The hardware we used was the following:
 
-- Raspberry PI 3 B+
+- **Raspberry PI 3 B+**
   <p align="center">
   <img width="460" height="340" src="images/RaspberryPI3B+.jpg">
 </p>
 
 
-- USB-GPS-module-Navigation-Positioning-G-mouse – U-Blox
+- **USB-GPS-module-Navigation-Positioning-G-mouse – U-Blox**
   <p align="center">
   <img width="460" height="440" src="images/U-Blox.jpg">
 </p>
 
 
-- Network 1000 mW Long-Range USB Wi-Fi Adapter, AWUS036NEH
+- **Network 1000 mW Long-Range USB Wi-Fi Adapter, AWUS036NEH**
   <p align="center">
   <img width="220" height="440" src="images/AWUS036NEH.jpg">
 </p>
 
-- Assembled system
+- **Assembled system**
   <p align="center">
   <img width="520" height="440" src="images/wipy.png">
 </p>
