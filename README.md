@@ -2,12 +2,19 @@
 This project is developed for the UNICA.IT University Network Security exam. 
 
 
+
 > **Master's degree in Computer Engineering, Cybersecurity and Artificial Intelligence - University of Cagliari**
 
 > **Network Security - Supervisor: Prof. Marco Martalò**
 
 > **Authors**: Lello Molinario: 70/90/00369 - Federico Moro: 70/90/00380
 
+Determining weaknesses in a system and digital infrastructure to estimate risks by helping to resolve these deficiencies is part of a broader branch of testing known as “Ethical Hacking” 
+
+We have set ourselves with this project to develop an integrated device that effectively reduces the technical skills necessary to carry out tests in the context of Wi-Fi networks. Wireless networks are commonly used worldwide and are easily accessible to anyone within the transmission range.
+Precisely, this strength is their most serious fragility: in this way, anyone within their reach could violate them. 
+
+The developed system has been structured on an embedded platform of the 'Raspberry Pi 3 B+' type with the idea that it can be easily mounted on UAV (Unmanned Aerial Vehicle) systems or UVS (Unmanned Vehicle System).
 
 ***
 # Table of Contents
