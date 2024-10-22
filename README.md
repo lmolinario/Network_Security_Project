@@ -102,3 +102,20 @@ The SWOT is made up of a 2×2 matrix in which the factors that have a potential,
   <img width="460" height="440" src="images/SWOT.png">
 </p>
 
+Let's immediately list what we thought were the relevant factors to include in our analysis.
+
+<div align="center">
+
+| SWOT                | HELPFUL                                                      | HARMFUL                                                                                                                                                                                          |
+|---------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **INTERNAL ORIGIN** | **STRENGTHS**                                                | **WEAKNESSES**                                                                                                                                                                                   |
+|                     | - Scalability                                                | - Use linked to the duration of a limited battery system in which it is mounted                                                                                                                  |
+|                     | - Ease of code implementation                                | - Prolonged code execution time (useful time to recover the packets necessary to "capture" the keys, especially by activating the "verbose-mode" of the besside-ng and aircrack-ng applications) |
+|                     | - Automatism                                                 |                                                                                                                                                                                                  |
+|                     | - Portability                                                |                                                                                                                                                                                                  |
+| **EXTERNAL ORIGIN** | **OPPORTUNITIES**                                            | **THREATS**                                                                                                                                                                                      |
+|                     | - Possibility of use even with little or no initial training | - Direct responsibility for the automated system and possibility of reporting for incorrect use                                                                                                  |
+|                     | - User-Friendly                                              |                                                                                                                                                                                                  |
+
+</div>
+
