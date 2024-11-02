@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 #
 #  SSI_ver.py
-#  autors: L&M (Lello Molinario e Massimo Putzu)
 #  Copyright 2021  <pi@raspberrypi>
 #  
 #  This program is free software; you can redistribute it and/or modify
